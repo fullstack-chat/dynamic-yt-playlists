@@ -15,19 +15,19 @@ This is a prime example of what I would use this for personally;
 - When Aztecross publishes a new video, that video will automatically be added to the top of the playlist
 - Alternatively, there is a sorted list of videos in the app that I can auto play throug
 
-## Roles
+## Roles/Areas
 
 - Front end
-        ○ Framework
-        ○ PWA
+  - Framework
+  - PWA
 - Back end
-        ○ API language
-        ○ Platform
-        ○ Database
+  - API language
+  - Platform
+  - Database
 - Design
-        ○ General branding
-        ○ Landing page
-        ○ UX
+  - General branding
+  - Landing page
+  - UX
         
 ## How to Contribute
 
