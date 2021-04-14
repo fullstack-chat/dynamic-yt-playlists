@@ -1,5 +1,6 @@
 {
   "name": "dynamic-yt-playlists",
+  "author": "fullstack.chat community",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
